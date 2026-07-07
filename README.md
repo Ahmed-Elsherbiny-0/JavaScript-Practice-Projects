@@ -1,6 +1,7 @@
 # JavaScript Practice Projects
 
-A collection of JavaScript practice applications built to strengthen programming skills. This repository includes games, Mapty and backist projects
+A collection of JavaScript practice applications built to strengthen programming skills. Mapty and backist projects
+
 ## 📚 About
 
 This repository contains projects created while learning and practicing modern JavaScript. Each project focuses on different concepts and techniques to build a strong foundation in front-end development.
@@ -21,12 +22,9 @@ This repository contains projects created while learning and practicing modern J
 
 Some of the projects included in this repository are:
 
-- 🎮 Guess the number Game
-- 🎮 Dice Game
 - 🗺️ Mapty App
 - 📋 bank transfar
 - ⏱️ bankist landing page
-
 
 ## 🛠️ Technologies Used
 
@@ -44,5 +42,4 @@ The goal of this repository is to:
 
 ## 📖 Learning Resources
 
-Projects in this repository are inspired by jonas  JavaScript courses.
-
+Projects in this repository are inspired by jonas JavaScript courses.
